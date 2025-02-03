@@ -1,2 +1,2 @@
-import './classes'
+import './classes/character'
 console.log('Webpack работает!');
